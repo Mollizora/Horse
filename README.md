@@ -2,4 +2,4 @@
 
 Hello!
 
-These files will be for etesting!
+These files will be for testing!
